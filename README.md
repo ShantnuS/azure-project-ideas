@@ -14,4 +14,4 @@ We welcome (and hope for) your contribution to this repository. If you have an A
 
 ### Security 
 
-- **Build an OWASP Top 10 resilient Web App**: [OWASP Top 10](https://owasp.org/www-project-top-ten/) is a collection of the current most common security risks for applications. Azure offers great Web App hosting with resources such as Azure App Service. Try building a Web App in a framework of your choice and secure it against OWASP Top 10 risks! 
+- **OWASP Top 10 Resilient Web App**: [OWASP Top 10](https://owasp.org/www-project-top-ten/) is a collection of the current most common security risks for applications. Azure offers great Web App hosting with resources such as Azure App Service. Try building a Web App in a framework of your choice and secure it against OWASP Top 10 risks! 
