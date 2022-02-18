@@ -1,4 +1,4 @@
-<img src="Resources/Images/banner.png" alt="drawing" width="200"/>
+<img src="Resources/Images/banner.png" alt="drawing" width="100%"/>
 Project ideas to help you learn and explore Microsoft Azure. 
 
 ## About 
