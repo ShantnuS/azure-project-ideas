@@ -1,5 +1,4 @@
 <img src="Resources/Images/banner.png" alt="drawing" width="100%"/>
-Project ideas to help you learn and explore Microsoft Azure. 
 
 ## About 
 The goal of this repository is to collect a diverse group of project ideas to help you learn about different resources and build something cool! 
