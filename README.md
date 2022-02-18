@@ -15,3 +15,7 @@ We welcome (and hope for) your contribution to this repository. If you have an A
 ### Security 
 
 - **OWASP Top 10 Resilient Web App**: [OWASP Top 10](https://owasp.org/www-project-top-ten/) is a collection of the current most common security risks for applications. Azure offers great Web App hosting with resources such as Azure App Service. Try building a Web App in a framework of your choice and secure it against OWASP Top 10 risks! 
+
+### Well-Architected Framework
+
+- **Cost Breakdown with Tagging**: Costs in an organisation are often billed across departments, and thus may require chargeback. One method to do this is by tagging Azure resources with information such as cost centre and department name and using tools such as Azure Monitor and PowerBI to create a cost/chargeback breakdown! 
