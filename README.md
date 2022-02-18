@@ -1,4 +1,4 @@
-# Azure Project Ideas
+<img src="Resources/Images/banner.png" alt="drawing" width="200"/>
 Project ideas to help you learn and explore Microsoft Azure. 
 
 ## About 
