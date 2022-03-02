@@ -14,7 +14,7 @@ We welcome (and hope for) your contribution to this repository. If you have an A
 
 ### Random/Fun
 
-- **One Joke a Day**: There are a number of Joke APIs available, such as the [Dad Jokes API](https://icanhazdadjoke.com/api). Azure allows scheduled tasks to be run through several services, such as Azure Functions or Logic Apps. These tools can even be used to send messages on Teams, Slack or Emails. Try bulding a service that queries an API daily for a joke and sends it as a message!
+- **One Joke a Day**: There are a number of Joke APIs available, such as the [Dad Jokes API](https://icanhazdadjoke.com/api). Azure allows scheduled tasks to be run through several services, such as Azure Functions or Logic Apps. These tools can even be used to send messages on Teams, Slack or Emails. Try building a service that queries an API daily for a joke and sends it as a message!
 
 ### Security 
 
